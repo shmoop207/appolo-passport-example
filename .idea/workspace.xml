@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24e7de2c-b2e5-4711-99b8-e31415a6bc55" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ljbxNESfFm7eeLh0etAzgFd8sJ" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/config/modules/passport/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/config/modules/passport/src" />
+      <recent name="$PROJECT_DIR$/src/users/passport" />
+      <recent name="$PROJECT_DIR$/src/notes" />
+      <recent name="$PROJECT_DIR$/src/dashboard" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/dashboard/middlewares" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/config/modules/passport/src" />
+      <recent name="$PROJECT_DIR$/src/notes/controllers" />
+      <recent name="$PROJECT_DIR$/src/notes" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app.js" type="NodeJSConfigurationType" path-to-node="$USER_HOME$/.nvm/versions/node/v14.9.0/bin/node" path-to-js-file="app.js" working-dir="$PROJECT_DIR$">
+      <envs>
+        <env name="MONGO" value="mongodb+srv://testUser:wp0ICCop9WQPeSqm@cluster0.yxpij.mongodb.net/test?retryWrites=true&amp;w=majority" />
+        <env name="GOOGLE_ID" value="611106891233-a1ovm8m8c1u109eupmvsruui4gc84qrs.apps.googleusercontent.com" />
+        <env name="GOOGLE_SECRET" value="LfBsudYU06Qq9X15xNb_epUa" />
+        <env name="PORT" value="3333" />
+      </envs>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24e7de2c-b2e5-4711-99b8-e31415a6bc55" name="Default Changelist" comment="" />
+      <created>1608113701038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608113701038</updated>
+      <workItem from="1608113704709" duration="32589000" />
+      <workItem from="1608466221006" duration="10000" />
+      <workItem from="1608468179742" duration="7774000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/config/env/IEnv.js" />
+        <option value="$PROJECT_DIR$/config/middlewares/all.js" />
+        <option value="$PROJECT_DIR$/config/env/all.js" />
+        <option value="$PROJECT_DIR$/config/modules/all.js.map" />
+        <option value="$PROJECT_DIR$/config/env/production.js" />
+        <option value="$PROJECT_DIR$/config/env/IEnv.js.map" />
+        <option value="$PROJECT_DIR$/config/env/all.js.map" />
+        <option value="$PROJECT_DIR$/config/middlewares/all.js.map" />
+        <option value="$PROJECT_DIR$/config/env/production.js.map" />
+        <option value="$PROJECT_DIR$/config/env/development.js" />
+        <option value="$PROJECT_DIR$/config/modules/all.js" />
+        <option value="$PROJECT_DIR$/config/env/development.js.map" />
+        <option value="$PROJECT_DIR$/app.js.map" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/config/modules/passport/passportModule.js.map" />
+        <option value="$PROJECT_DIR$/config/modules/passport/passportModule.js" />
+        <option value="$PROJECT_DIR$/config/modules/passport/src/interfaces/IOptions.js.map" />
+        <option value="$PROJECT_DIR$/config/modules/passport/src/interfaces/IOptions.js" />
+        <option value="$PROJECT_DIR$/config/modules/passport/src/decorators.js.map" />
+        <option value="$PROJECT_DIR$/config/modules/passport/src/decorators.js" />
+        <option value="$PROJECT_DIR$/config/modules/passport/src/interfaces/IStrategy.js.map" />
+        <option value="$PROJECT_DIR$/config/modules/passport/src/interfaces/IStrategy.js" />
+        <option value="$PROJECT_DIR$/config/modules/passport/src/passportSerializer.js.map" />
+        <option value="$PROJECT_DIR$/config/modules/passport/src/passportSerializer.js" />
+        <option value="$PROJECT_DIR$/src/users/passport/userSerializer.js.map" />
+        <option value="$PROJECT_DIR$/src/users/passport/userSerializer.js" />
+        <option value="$PROJECT_DIR$/config/modules/passport/src/authenticate.js.map" />
+        <option value="$PROJECT_DIR$/config/modules/passport/src/authenticate.js" />
+      </list>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/notes/controllers/notesController.ts</url>
+          <line>21</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
